@@ -1,2 +1,2 @@
-# data-platform-lab
-A minimal, inspectable data platform built one Git commit at a time.
+# data-labs
+For the labs I think are worth hanging on to.
