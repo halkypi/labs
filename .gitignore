@@ -172,6 +172,9 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
+# Local scratch scripts and fire-and-forget experiment output.
+local/
+
 # Pyre type checker
 .pyre/
 
