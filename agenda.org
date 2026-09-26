@@ -1,11 +1,34 @@
 #+title: Agenda
 
+See also:
+ [[denote:20250613T145508][Streamlit]] 
 * Todos 
+** SM Switch to pyproject.toml
+:LOGBOOK:
+- State "SM"         from "TODO"       [2026-09-26 Sat 08:25]
+:END:
+  - [ ] cd labs/30-days-of-ai
+  - [ ] uv venv
+  - [ ] source .venv/bin/activate
+  - [ ] uv pip install -r requirements.txt
+  - [ ] uv run streamlit run app/day1.py
 * NOTES
 ** Sat 2026-09-26
 
 Folding in the 30 days or ai, I mean, why not.  I've decided to simplify this a lot.  I didn't end up using this before, it died on the vine.  So moving to a labs approach instead, use agents to find the best resources.  Although I stumbled across 30 days of ai, which is streamlit/snowflake, which is what I need right now.  
-
+*** DONE Complete day 1
+:LOGBOOK:
+- State "DONE"       from              [2026-09-26 Sat 07:14]
+:END:
+*** DONE Clean up this repo and merge in pandas and streamlit labs
+:LOGBOOK:
+- State "DONE"       from              [2026-09-26 Sat 07:14]
+:END:
+** Fri 2026-09-25 
+*** DONE Set up snowflake trial 
+:LOGBOOK:
+- State "DONE"       from              [2026-09-26 Sat 07:14]
+:END:
 ** Sat 2026-08-22
 :LOGBOOK:
 - Note taken on [2026-08-22 Sat 14:25] \\
